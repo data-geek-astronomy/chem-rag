@@ -1,0 +1,16 @@
+compound_name,property_name,expected_value,tolerance,source
+Ethanol,boiling_point_celsius,78.37,2.0,NIST WebBook
+Ethanol,flash_point_celsius,13.0,2.0,NIST WebBook
+Ethanol,melting_point_celsius,-114.1,2.0,NIST WebBook
+Acetone,boiling_point_celsius,56.05,2.0,NIST WebBook
+Acetone,flash_point_celsius,-20.0,3.0,NIST WebBook
+Acetone,melting_point_celsius,-94.7,2.0,NIST WebBook
+Methanol,boiling_point_celsius,64.7,2.0,NIST WebBook
+Methanol,flash_point_celsius,11.0,2.0,NIST WebBook
+Methanol,melting_point_celsius,-97.6,2.0,NIST WebBook
+Toluene,boiling_point_celsius,110.6,2.0,NIST WebBook
+Toluene,flash_point_celsius,4.4,2.0,NIST WebBook
+Benzene,boiling_point_celsius,80.1,2.0,NIST WebBook
+Benzene,flash_point_celsius,-11.0,2.0,NIST WebBook
+Hexane,boiling_point_celsius,68.7,2.0,NIST WebBook
+Hexane,flash_point_celsius,-22.0,3.0,NIST WebBook
